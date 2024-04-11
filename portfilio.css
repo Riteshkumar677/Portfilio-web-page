@@ -140,6 +140,7 @@
         margin-left: -78px;
     }
     .bg{
+         Display: block;
         background-color: #007bff;
     height: 678px;
     width: 567px;
@@ -322,10 +323,12 @@
       .skills__data{
         display: flex;
         flex-direction: column;
-        margin-left: 50px;
+        margin-left: 10px;
         font-size: 27px;
+           margin-top: -667px;
     }
    .bg{
+        Display: none;
     height: 0px;
     width: 0px;
     margin-top: -913px;
