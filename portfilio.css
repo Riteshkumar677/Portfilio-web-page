@@ -325,8 +325,9 @@
         flex-direction: column;
         margin-left: 19px;
         font-size: 27px;
-     
+     margin-top: 66px;
     }
+         
    .bg{
         Display: none;
     height: 0px;
