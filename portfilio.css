@@ -322,13 +322,13 @@
       .skills__data{
         display: flex;
         flex-direction: column;
-        margin-left: 80px;
+        margin-left: 50px;
         font-size: 27px;
     }
    .bg{
-    height: 443px;
-    width: 294px;
+    height: 0px;
+    width: 0px;
     margin-top: -913px;
-    border-radius: 33%;
+    border-radius: 0px;
    }
     }
