@@ -37,7 +37,10 @@
         margin-left: 532px;
         border-radius: 90%;
     }
-    
+    #about img{
+         height: auto;
+         width: 100%;
+    }
     a {
     color: var(--primary-color);
     text-decoration: none;
